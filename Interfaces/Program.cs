@@ -11,6 +11,5 @@
         towtruck.Move();
 
         largecrane.Move();
-
     }
 }
